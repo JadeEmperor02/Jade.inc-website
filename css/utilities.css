@@ -157,6 +157,16 @@ code, pre {
   padding: 10px;
 }
 
+/*Favico*/
+.icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.icon .head-icon {
+  width: 45px;
+}
+
 /*Text-sizes*/
 .lead {
   font-size: 20px;
